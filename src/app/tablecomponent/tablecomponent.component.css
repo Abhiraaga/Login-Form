@@ -1,0 +1,44 @@
+table {
+    width:100%;
+}
+
+th
+{
+  background-color: black;
+  color: white;
+  font-size:20;
+}
+
+button
+{
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.arrow
+{
+    background-color:black;
+    color: white;
+    float: right;
+    margin-top: 2px;
+}
+
+.textarrow
+{
+
+    font-size: 12px;
+    font-family:Roboto, "Helvetica Neue",sans-serif;
+    padding-right:10px;
+
+}
+.mat-column-details{
+    width:16%;
+}
+
+
+.flright
+{
+    float: right;
+    margin-left: 100px;
+}
